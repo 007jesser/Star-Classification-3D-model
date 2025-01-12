@@ -10,3 +10,5 @@ The large number of fields in this file provide plenty of analysis opportunities
 The source file has been simplified by converting it from fixed width with pipe separated values to csv . RAre occurrences of commas within the values were replaced by semi colons . Further DEtails about each field is provided below .
 
 A browseable version of this dataset with links to astronomy maps and the henry draper catalog is available here .
+![__results___3_0](https://github.com/user-attachments/assets/d8002f4a-2dd7-46f2-815c-5e1f119c05cb)
+![__results___4_0](https://github.com/user-attachments/assets/75ddd3c9-110d-4396-a960-06695cefede6)
